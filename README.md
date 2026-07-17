@@ -53,8 +53,31 @@ docesys/
 ---
 
 ## 📂 Conteúdos do Estudo de Caso
-* 📐 [case-study.md](file:///portfolio-case/case-study.md) $\rightarrow$ Estudo de caso aprofundado com desafios técnicos, incidentes de banco e lições de engenharia.
-* 📸 [screenshots-guide.md](file:///portfolio-case/screenshots-guide.md) $\rightarrow$ Demonstração visual segura das telas de Dashboard, Estoque, Produção, Gemini OCR e Financeiro.
-* 💼 [resume-summary.md](file:///portfolio-case/resume-summary.md) $\rightarrow$ Resumo técnico estruturado para currículos, portfolios e entrevistas.
-* 📢 [linkedin-post.md](file:///portfolio-case/linkedin-post.md) $\rightarrow$ Modelos prontos de divulgação profissional.
-* 🛡️ [SECURITY.md](file:///portfolio-case/SECURITY.md) $\rightarrow$ Políticas adotadas para garantir segurança e privacidade neste case de estudo.
+* 📐 [case-study.md](case-study.md) $\rightarrow$ Estudo de caso aprofundado com desafios técnicos, incidentes de banco e lições de engenharia.
+* 🛡️ [SECURITY.md](SECURITY.md) $\rightarrow$ Diretrizes de segurança e privacidade adotadas para a apresentação pública do projeto.
+
+---
+
+## 📸 Demonstração Visual (Screenshots)
+
+Abaixo estão demonstradas as principais telas do sistema com o **Modo Privacidade / Ocultar Valores** ativado, permitindo registrar fotos e vídeos da aplicação de forma profissional sem expor faturamento, despesas, margens de lucro ou preços de venda.
+
+### 📊 Dashboard (Início)
+Apresentação unificada de faturamento mensal real/projetado, saldo do período, previsões financeiras e de compras com mascaramento monetário total.
+![Dashboard com Modo Privacidade](assets/screenshots/dashboard-privacy-mode.png)
+
+### 💵 Controle Financeiro (Fluxo de Caixa)
+Acompanhamento consolidado de receitas, despesas, lucros operacionais e rendimentos, juntamente com a visualização gráfica comparativa mensal.
+![Controle Financeiro com Modo Privacidade](assets/screenshots/finance-privacy-mode.png)
+
+### 🍳 Vendas e Frente de Caixa
+Frente de vendas rápida para controle de estoque de pronta entrega e listagem do histórico recente de vendas.
+![Frente de Vendas com Modo Privacidade](assets/screenshots/sales-privacy-mode.png)
+
+### 📦 Controle de Estoque
+Cadastro completo de produtos e insumos, exibindo o status de alerta de reabastecimento. Valores e custos médios ocultos, mantendo visíveis apenas as quantidades físicas operacionais.
+![Estoque com Modo Privacidade](assets/screenshots/inventory-privacy-mode.png)
+
+### 📅 Pedidos e Encomendas
+Gestão de agendamentos e status de entrega de encomendas.
+![Pedidos com Modo Privacidade](assets/screenshots/orders-privacy-mode.png)
